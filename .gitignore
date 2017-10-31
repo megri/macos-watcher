@@ -1,0 +1,6 @@
+logs/
+project/boot
+target/
+.idea/
+
+storage.db
