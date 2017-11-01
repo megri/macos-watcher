@@ -11,7 +11,7 @@ resolvers += Resolver.bintrayIvyRepo( "megri", "sbt-plugins" )
 addSbtPlugin( "com.megri" % "sbt-macos-watcher" % "0.1" )
 ```
 
-The plugin should automatically replace the defauld sbt watchservice with a native one.
+The plugin should automatically replace the default sbt watchservice with a native one.
 
 ## Disclaimer
 
